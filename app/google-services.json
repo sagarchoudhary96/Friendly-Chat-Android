@@ -15,11 +15,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "394550596048-r3ci0hrj9mcvg6ec1ueu67qm0jsn0j7g.apps.googleusercontent.com",
+          "client_id": "394550596048-36e8agh6e0p7gkmg7egrenck4bvvo538.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.google.firebase.udacity.friendlychat",
-            "certificate_hash": "F6C2ED9010EBE3A707C35030AC92E507F5ACCD69"
+            "certificate_hash": "6df4895afedf206cf9bf56120a8f5faff4230fa9"
           }
         },
         {
